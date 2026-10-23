@@ -1,0 +1,4 @@
+pandas>=2.1
+numpy>=1.26
+pyarrow>=14      # optional but recommended: Parquet storage (falls back to gzip CSV without it)
+requests>=2.31

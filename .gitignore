@@ -1,0 +1,15 @@
+data/
+reports/
+positions.csv
+paper_signals.csv
+.env
+.env.*
+!.env.example
+*credentials*
+*secrets*
+__pycache__/
+*.py[cod]
+.venv/
+*.zip
+*.parquet
+*.csv
